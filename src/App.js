@@ -4,8 +4,7 @@ import HomeScreen from "./HomeScreen";
 
 function App() {
   return (
-    <div className="App">
-      <h1> Lets build Nexflix</h1>
+    <div className="app">
       <HomeScreen />
     </div>
   );
