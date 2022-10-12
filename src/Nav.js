@@ -22,7 +22,7 @@ function Nav() {
       <div className="nav__contents">
         <img
           className="nav__logo"
-          src="https://streamersworld.com/wp-content/uploads/2019/06/Netflix-logo.png"
+          src="https://www.freepnglogos.com/uploads/netflix-logo-0.png"
           alt=""
         />
         <img
