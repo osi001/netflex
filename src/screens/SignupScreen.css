@@ -45,6 +45,7 @@
 
 .signupScreen > form > h4 > span {
   color: white;
+  cursor: pointer;
 }
 
 .signupScreen > form > h4 > span :hover {
