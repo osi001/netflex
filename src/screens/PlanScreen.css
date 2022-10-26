@@ -1,0 +1,19 @@
+.planScreen {
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+}
+
+.planScreen__plan {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  color: blue;
+}
+.planScreen__info {
+  display: flex;
+}
+
+.h5 {
+  color: blueviolet;
+}
